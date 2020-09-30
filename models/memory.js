@@ -1,4 +1,4 @@
-//code to show images on the webpage
+// code to show images on the webpage
 var mongoose     = require("mongoose");
 
 var memorySchema  = new mongoose.Schema({
